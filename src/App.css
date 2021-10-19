@@ -1,0 +1,23 @@
+ .backg{
+background-color: rgb(97, 18, 97);
+ }
+ .design{
+   width: 40rem;
+   margin-left: 27%;
+ }
+ .image{
+   width: 150px;
+   border-radius: 50%;
+   margin-left: 39%;
+    
+ }
+ h1{
+  font-style: italic;
+ }
+ .size{
+   height: 20px;
+
+ }
+ .button{
+   margin-left: 10px;
+ }
